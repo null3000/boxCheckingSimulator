@@ -1,7 +1,6 @@
 float boxX = height+200;
 float boxY =height+200;
 int score=0;
-int time =10;
 
 void setup() {
   size(600, 600);
